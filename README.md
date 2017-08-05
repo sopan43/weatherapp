@@ -11,10 +11,16 @@ Before running the app run there commands in the terminal in the project directo
 After running there commands, to run the application
 
 node app.js –a pincode
+
 or
+
 node app.js –address pincode
+
 or
+
 node app.js –a ‘city/address’
+
 or
+
 node app.js –address ‘city/address’
 
